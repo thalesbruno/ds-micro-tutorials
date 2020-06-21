@@ -4,4 +4,5 @@ Micro tutorials about data visualization with Python (pandas, matplotlib and sea
 This repository contains notebooks with micro tutorials about some topic of Data Analysis and Visualization.
 
 ### Matplotlib and Seaborn
-- [Subplotting](#)
+- [Subplotting](https://github.com/thalesbruno/data-visualization/blob/master/matplotlib-seaborn/subplotting.ipynb)
+
